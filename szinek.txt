@@ -5,3 +5,4 @@ zöld
 lila
 sárga
 barna
+fehér
