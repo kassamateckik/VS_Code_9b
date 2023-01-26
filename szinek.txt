@@ -6,3 +6,4 @@ lila
 sárga
 barna
 narancsssárga
+fehér
